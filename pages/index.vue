@@ -1,6 +1,14 @@
 <template>
   <div>
+<<<<<<< HEAD
     <h1 class="text">ブロスタyy</h1>
+=======
+<<<<<<< HEAD
+    <h1 class="text">testruii</h1>
+=======
+    <h1 class="text">ブロスタ</h1>
+>>>>>>> 63fe5fc3f690b6b0273834081efb4996f46b3829
+>>>>>>> 719a14462b28498fec1d27b40aa8dd125900d262
   
     <div class="container">
 
@@ -97,7 +105,7 @@ export default {
   computed: {
  
     mapStyle() {
-      // 地図の位置スタイルを返す
+      // 地図の位置スタイルを返すaaaa
       return {
         top: `${this.mapPosition.top}px`,
         left: `${this.mapPosition.left}px`,
