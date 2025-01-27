@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text">ブロスタyyyy</h1>
+    <h1 class="text">ブロスタyy</h1>
   
     <div class="container">
 
