@@ -1,6 +1,10 @@
 <template>
   <div>
-    <h1 class="text">testrui</h1>
+<<<<<<< HEAD
+    <h1 class="text">testruii</h1>
+=======
+    <h1 class="text">ブロスタ</h1>
+>>>>>>> 63fe5fc3f690b6b0273834081efb4996f46b3829
   
     <div class="container">
 
